@@ -1,2 +1,4 @@
 First file to commit
 Second commit changes
+Line for patch
+For a new branch
